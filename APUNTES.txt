@@ -1,0 +1,52 @@
+PARTE 1
+_____________________________________________________________________________________
+
+
+- Material UI: Para descargar componentes de React --> (38:40)
+
+    - Instalar Material UI --> (40:20)
+      (Cuando se instala un paquete se puede ver en el registro "package.json")
+
+
+- Inputs en material UI --> (49:50)
+
+- Método para renderizar los post de  los usuarios (Hook) --> (1:15:40)
+
+    - Hook UseState --> (1:16:30)
+
+- Explicación desestructuración en Javascript y funcionalidad de posts --> (1:40:00)
+
+- IconButton en MaterialUI --> (1:56:29)
+
+- Patron estándar usado por Redux --> (1:59:19)
+
+- Autentificación (2:37:23)
+
+    - Firebase (2:38:00)
+
+PARTE 2
+_____________________________________________________________________________________
+
+Mantener a usuario online en el chat sin que salga (logout) --> (7:00)
+
+Conditional Chaining --> (17:45)
+
+Botón Condicional Sign Out --> (27:00)
+
+Condicionales en React --> (33:30)
+
+Bases de datos en Firebase (Firestore) --> (35:30)
+
+TimeStamp --> (1:02:17)
+
+Icono de Eliminar Mensaje --> (1:40:00)
+
+Botón Switch --> (1:46:20)
+
+Botón like --> (2:04:50)
+
+Tiempo(Weather) --> (2:15:40)
+
+Librería de Animaciones react-flip-move --> (2:47:26)
+
+Nombre de usuario en cada mensaje --> (2:57:38)

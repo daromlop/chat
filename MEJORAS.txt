@@ -1,0 +1,1 @@
+1 --> Intentar arreglar avatars de usuarios no se ven algunas veces

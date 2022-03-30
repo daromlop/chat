@@ -1,0 +1,24 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+/* Colors */
+
+.dark {
+    background-color: #121212;
+}
+
+.light {
+    background-color: #fff;
+}
+
+.orange {
+    background-color: #ff8300;
+}
+
+.blue {
+    background-color: #1691c2;
+}
